@@ -1,0 +1,21 @@
+user : 
+user,
+beli,
+detail_pesanan,
+hapus_pesanan,
+menu_pembeli, 
+pesanan_pembeli,
+tampil_ulasan, 
+ulasan
+
+admin: 
+admin,
+clear_pesanan,
+daftar_menu,
+edit_menu, 
+edit, 
+hapus_menu,
+pesanan,
+tambah_menu,
+
+outof folder : logout, register, simpan_register,
